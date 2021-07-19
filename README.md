@@ -33,6 +33,10 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt = "Satya's Github Stats" scr="https://github-readme-stats.vercel.app/api?username=satya-ranjan&show_icons=true&theme=radical" />
+
 [twitter]: https://twitter.com/SatyaRa83216676?s=09
 [instagram]: https://www.instagram.com/_user__.not_.available_/
 [linkedin]:  https://www.linkedin.com/in/satya-ranjan-sahoo-4b620919b
