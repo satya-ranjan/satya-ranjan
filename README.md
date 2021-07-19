@@ -1,4 +1,4 @@
-### Hi there, I'm Satya Ranjan Sahoo - aka [satya-ranjan] 👋
+### Hi there, I'm Satya - aka [satya-ranjan] 👋
 
 ## I'm Student
 - 🔭 I’m currently working on a [ML Project]!
