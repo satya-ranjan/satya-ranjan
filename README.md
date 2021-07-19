@@ -37,6 +37,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=satya-ranjan&show_icons=true&theme=radical)
 
+---
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=satya-ranjan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 [twitter]: https://twitter.com/SatyaRa83216676?s=09
