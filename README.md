@@ -1,4 +1,4 @@
-### Hi there, I'm Satya - aka [satya-ranjan] 👋
+### Hi there, I'm Satya  👋
 
 ## I'm Student
 - 🔭 I’m currently working on a [ML Project]!
